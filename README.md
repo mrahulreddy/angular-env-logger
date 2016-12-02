@@ -46,6 +46,8 @@ Author: M. Rahul Reddy ([RahulReddy](https://github.com/mrahulreddy))
 
         });
     ```
+## Credits
+Alexander Jangam ([Alex](https://github.com/AlexJangam))
 
 ## License
 MIT
