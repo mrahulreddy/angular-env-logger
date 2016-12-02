@@ -1,0 +1,27 @@
+{
+  "name": "angular-env-logger",
+  "homepage": "https://github.com/mrahulreddy/angular-env-logger",
+  "authors": [
+    "M. Rahul Reddy <rahulreddym1992@gmail.com>"
+  ],
+  "version": "0.0.1",
+  "description": "angularjs factory for console loggers restriction.",
+  "main": "dist/angular-env-logger.min.js",
+  "moduleType": [],
+  "keywords": [
+    "javascript",
+    "angularjs",
+    "browser",
+    "console",
+    "loggers",
+    "log"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

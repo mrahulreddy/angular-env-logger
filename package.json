@@ -1,0 +1,27 @@
+{
+  "name": "angular-env-logger",
+  "version": "0.0.1",
+  "description": "angularjs factory for console loggers restriction based on application environment.",
+  "main": "dist/angular-env-logger.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrahulreddy/angular-env-logger"
+  },
+  "keywords": [
+    "angularjs",
+    "angular",
+    "console",
+    "logger",
+    "javascript",
+    "log"
+  ],
+  "author": "M. Rahul Reddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrahulreddy/angular-env-logger/issues"
+  },
+  "homepage": "https://github.com/mrahulreddy/angular-env-logger#readme"
+}
