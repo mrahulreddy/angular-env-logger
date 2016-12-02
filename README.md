@@ -6,7 +6,7 @@ Author: M. Rahul Reddy ([RahulReddy](https://github.com/mrahulreddy))
 ## Usage
 
 1. Install via either [npm](https://www.npmjs.com/) or downloaded files:
-    1. `bower install --save angular-env-logger`
+    1. `bower install angular-env-logger`
     2. download [angular-env-logger.zip](https://github.com/mrahulreddy/angular-env-logger/zipball/master)
 2. Include dependencies in your HTML.
     1. When using bower:
@@ -46,6 +46,9 @@ Author: M. Rahul Reddy ([RahulReddy](https://github.com/mrahulreddy))
 
         });
     ```
+## Note
+Use logger.log/warn/error instead of console.log/warn/error
+
 ## Credits
 Alexander Jangam ([Alex](https://github.com/AlexJangam))
 
